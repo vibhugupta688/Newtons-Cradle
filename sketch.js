@@ -48,7 +48,7 @@ function draw(){
   sling5.display();
   fill("white");
   textSize(30);
-   textFont("Goudy Stout Regular");
+   textFont("impact");
  text("Newton's Cradle",20,400);
  fill("white");
  textFont("Ink Free Regular")
